@@ -10,7 +10,7 @@ python-dateutil==1.5
 PyYAML==3.12
 requests==2.18.4
 ua-parser==0.7.3
-urllib3==1.22
+urllib3==1.26.5
 user-agents==1.1.0
 whitenoise==3.3.0
 geoip2==2.7.0
